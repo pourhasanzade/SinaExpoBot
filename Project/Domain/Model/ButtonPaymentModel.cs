@@ -1,0 +1,4 @@
+﻿namespace SinaExpoBot.Domain.Model
+{
+    
+}
